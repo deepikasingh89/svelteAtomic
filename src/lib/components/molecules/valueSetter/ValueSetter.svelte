@@ -5,6 +5,8 @@
   export let onReset: () => void;
 </script>
 
-<Button label="+" onClick={onIncrease} />
+<!-- <Button label="+" onClick={onIncrease} />
 <Button label="-" onClick={onDecrease} />
-<Button label="Reset" onClick={onReset} />
+<Button label="Reset" onClick={onReset} /> -->
+
+<Button label="Button"></Button>
